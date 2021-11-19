@@ -4,7 +4,7 @@ _A situation of severe trial, or in which different elements interact, leading t
 
 aka: **V0 Tripod with a fancy name**.
 
-![crucible_view_1](images/view_1.png)
+![render](Images/view_1.png)
 
 ## Work in Progress
 
