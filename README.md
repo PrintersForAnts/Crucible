@@ -47,7 +47,7 @@ Please bear in mind that this is a WIP - please be patient as the existing desig
 
 ## Recognition
 
-* @MCMBen#6371  [Trident Skirt](https://github.com/Fleafa/VoronUsers/tree/V0.1-Trident-skirt/printer_mods/MCMBen/Voron0_Trident_Skirt)
 * @hartk#1213 [Micron Parts](https://github.com/hartk1213/Micron)
+* @MCMBen#6371  [Trident Skirt](https://github.com/Fleafa/VoronUsers/tree/V0.1-Trident-skirt/printer_mods/MCMBen/Voron0_Trident_Skirt)
 * @Yeri#1242 [Magnetic Panels](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/yeri/V0_Magnetic_Panels)
 * @zruncho#1790 [Zero-Filter](https://github.com/zruncho3d/zerofilter) 
