@@ -2,7 +2,6 @@
 
 _A situation of severe trial, or in which different elements interact, leading to the creation of something new_  
 
-aka: **V0 Tripod with a fancy name**.
 
 ![render](Images/view_1.png)
 
