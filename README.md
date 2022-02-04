@@ -3,7 +3,7 @@
 _A situation of severe trial, or in which different elements interact, leading to the creation of something new_  
 
 
-![render](Images/view_1.png)
+![render](Images/crucible.png)
 
 ## Work in Progress
 
