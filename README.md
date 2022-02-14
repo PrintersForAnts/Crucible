@@ -1,5 +1,8 @@
-# Crucible
+# 2.14.2022 Update - currently working on modifying the gantry then should be ready for full release. 
 
+
+
+# Crucible
 _A situation of severe trial, or in which different elements interact, leading to the creation of something new_  
 
 
