@@ -1,9 +1,8 @@
-# 2.14.2022 Update - currently working on modifying the gantry then should be ready for full release. 
 
-
+# 9.2.2022 Update - Beta is in full swing
 
 # Crucible
-_A situation of severe trial, or in which different elements interact, leading to the creation of something new_  
+A collaboritive effort by Maverick™#1883, Slayga#8084, and Mike4D#8668
 
 
 ![render](images/crucible.png)
@@ -27,25 +26,6 @@ Please bear in mind that this is a WIP - please be patient as the existing desig
 
 * 2 - Stepper Motors with integrated leadscrew (150mm)
 * 4 - 1515 extrusions (360mm)
-
-
-**Action Items**
-
-[x] Vett printed parts meet Voron Design criteria
-
-[ ] Investigate panel mounting alternatives
-
-[ ] Finish Zero-Filter implementation
-
-[ ] Name and organize all files
-
-[ ] Orient printable parts
-
-[ ] Decide on wiring solution (Umbilical vs Chain)
-
-[ ] Add all hardware to assembly file
-
-[ ] Hinged front door (acrylic living hinge?)
 
 ## Recognition
 
