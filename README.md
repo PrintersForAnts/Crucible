@@ -5,7 +5,7 @@
 A collaboritive effort by Maverick™#1883, Slayga#8084, and Mike4D#8668
 
 
-![render](images/crucible.png)
+![render](images/39AACB69-7EE5-40F5-BEBB-ACBA2BDBE145.jpeg)
 
 ## Work in Progress
 
