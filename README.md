@@ -19,8 +19,8 @@ Please bear in mind that this is a WIP - please be patient as the existing desig
 
 
 ## Recognition
-* Nemgrea#4325 / VORON Design
+* Nemgrea#4325 / VORON Design [V0.1](https://vorondesign.com/voron0.1)
 * Slayga#8084
 * Mike4D#8668
-* @hartk#1213 [Micron Parts](https://github.com/hartk1213/Micron)
-* @MCMBen#6371  [Trident Skirt](https://github.com/Fleafa/VoronUsers/tree/V0.1-Trident-skirt/printer_mods/MCMBen/Voron0_Trident_Skirt) 
+* hartk#1213 [Micron Parts](https://github.com/hartk1213/Micron)
+* MCMBen#6371  [Trident Skirt](https://github.com/Fleafa/VoronUsers/tree/V0.1-Trident-skirt/printer_mods/MCMBen/Voron0_Trident_Skirt) 
