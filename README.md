@@ -8,6 +8,15 @@
 
 Please bear in mind that this is a WIP - please be patient as the existing design is improved upon and stay up to date at the [Discord channel](https://discord.gg/UQzPxNhA92).
 
+## Parts Needed for V0.1 Conversion
+* (4) 360mm 1515 Extrusions
+* (3) IGUS GE5C Spherical Bearings
+* (2) NEMA17 Stepper Motor w/ integrated lead screw 200mm T8x8
+* (8) F623 Bearings
+* (4) 4010 Fans - For Skirt and Bed
+* (1) 150mm MGN9C Linear Rail
+* Misc. M3 hardware of varying lengths
+
 
 ## Recognition
 * Slayga#8084
