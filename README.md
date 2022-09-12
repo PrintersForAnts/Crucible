@@ -19,6 +19,7 @@ Please bear in mind that this is a WIP - please be patient as the existing desig
 
 
 ## Recognition
+* Nemgrea#4325 / VORON Design
 * Slayga#8084
 * Mike4D#8668
 * @hartk#1213 [Micron Parts](https://github.com/hartk1213/Micron)
