@@ -1,5 +1,14 @@
 # Crucible 
 
+## Features
+* A VORON Trident on a V0 scale
+* Overall dimensions (mm): 230x230x360
+* Build volume (mm): 120x120x120
+* Klicky Probe integration
+* Quick release panels
+* Under-bed carriage fans 
+* Fancy name
+
 <img src="images/39AACB69-7EE5-40F5-BEBB-ACBA2BDBE145.jpeg" width="800" height="800">
 <img src="images/5D5C15D4-5C5B-44C7-AC00-2AAD4BF1DE03.jpeg" width="600" height="850">
 <img src="images/5DB0F848-9E6B-4D25-B1EE-E583A8C76F0B.jpeg" width="550" height="850">
