@@ -25,6 +25,7 @@ Please bear in mind that this is a WIP - please be patient as the existing desig
 * (8) F623 Bearings
 * (4) 4010 Fans - For Skirt and Bed
 * (1) 150mm MGN9C Linear Rail
+* MCU capable of handling additional steppers (dual or otherwise)
 * 3mm foam strips 
 * Acrylic panels 
 * Misc. M3 hardware of varying lengths
